@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/0_First Steps/0-First Steps.unity
     guid: 5043a6db7ead9084d900bac02f124e4c
-  - enabled: 1
+  - enabled: 0
     path: Assets/First Steps AntoniGG.unity
     guid: 94af413d23716d04ea3e567f23b35770
+  - enabled: 1
+    path: Assets/00-Lesson3/00_Lesson3.unity
+    guid: 012092e496bb35b44ac34350a74bf5bc
   m_configObjects: {}
