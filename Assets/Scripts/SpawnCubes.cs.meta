@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b008de3f8a43bcf4495a6d59582e1060
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - icecube: {instanceID: 0}
+  - spawnpoint: {instanceID: 0}
+  - cling: {fileID: 8300000, guid: 03287a5926a938f46a2fca01fe5d5291, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
