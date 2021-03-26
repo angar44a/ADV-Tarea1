@@ -9,12 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 0
-    path: Assets/0_First Steps/0-First Steps.unity
+    path: Assets/00_Projects/0_First Steps/0-First Steps.unity
     guid: 5043a6db7ead9084d900bac02f124e4c
   - enabled: 0
     path: Assets/First Steps AntoniGG.unity
     guid: 94af413d23716d04ea3e567f23b35770
-  - enabled: 1
-    path: Assets/00-Lesson3/00_Lesson3.unity
+  - enabled: 0
+    path: Assets/00_Projects/00-Lesson3/00_Lesson3.unity
     guid: 012092e496bb35b44ac34350a74bf5bc
+  - enabled: 1
+    path: Assets/00_Projects/00-StateMachine/00-StateMachine.unity
+    guid: 9bd2b4e9e3d8539499a45ec1b6526ffb
   m_configObjects: {}
