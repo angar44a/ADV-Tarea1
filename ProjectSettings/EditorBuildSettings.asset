@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00_Projects/00-Lesson3/00_Lesson3.unity
     guid: 012092e496bb35b44ac34350a74bf5bc
-  - enabled: 1
+  - enabled: 0
     path: Assets/00_Projects/00-StateMachine/00-StateMachine.unity
     guid: 9bd2b4e9e3d8539499a45ec1b6526ffb
+  - enabled: 1
+    path: Assets/00_Projects/00_Morph/Morph_and_more.unity
+    guid: 4f3229a864415e14498ec6bbcb65ae0e
   m_configObjects: {}
