@@ -23,7 +23,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/00_Projects/00_Morph/Morph_and_more.unity
     guid: 4f3229a864415e14498ec6bbcb65ae0e
-  - enabled: 1
+  - enabled: 0
     path: Assets/00_Projects/00_Breakdancer/Morph_and_more 1.unity
     guid: a923a9eeed344f14eb6c56369307885b
+  - enabled: 1
+    path: Assets/00_Projects/FinalProject/FinalProject.unity
+    guid: f640a673cc755014eb3622f3c1d052db
   m_configObjects: {}
